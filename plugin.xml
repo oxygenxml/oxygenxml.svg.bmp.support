@@ -1,0 +1,14 @@
+<!DOCTYPE plugin PUBLIC "-//Oxygen Plugin" "../plugin.dtd">
+<plugin
+ id="oxygenxml.svg.bmp.support"
+ name="Properly render SVG images which have embedded BMP images"
+ description="Properly render in the Author visual editing mode SVG images which have embedded BMP images."
+ version="1.1"
+ vendor="Radu Coravu"
+ class="ro.sync.exml.plugin.Plugin"
+ classLoaderType="preferReferencedResources">
+ <runtime>
+  <librariesFolder name="lib" scope="global"/>
+ </runtime>
+ <extension type="WorkspaceAccessJS" href="wsAccess.js"/>
+</plugin>
