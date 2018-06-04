@@ -14,3 +14,9 @@ To install it the add-on, follow these instructions:
 5. Restart the application.
 
 Result: If you have SVG files refererring to BMP images, they will start to be properly rendered in the Author visual editing mode and in the SVG Viewer tool.
+
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
+
+This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/oxygen.svg.bmp.support/blob/master/LICENSE)
