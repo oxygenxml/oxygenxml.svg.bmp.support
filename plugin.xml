@@ -4,7 +4,7 @@
  name="Properly render SVG images which have embedded BMP images"
  description="Properly render in the Author visual editing mode SVG images which have embedded BMP images."
  version="1.1"
- vendor="Radu Coravu"
+ vendor="Syncro Soft"
  class="ro.sync.exml.plugin.Plugin"
  classLoaderType="preferReferencedResources">
  <runtime>
